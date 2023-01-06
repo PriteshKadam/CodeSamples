@@ -1,1 +1,1 @@
-Code samples for parsing certs from pem file .Tool usage :CertRead.exe <Path to pem file>
+Code samples for parsing certs from pem file .Tool usage :CertRead.exe "Path to pem file"
